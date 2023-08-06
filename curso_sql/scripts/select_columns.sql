@@ -1,0 +1,1 @@
+select id uid,email uemail from users as u;

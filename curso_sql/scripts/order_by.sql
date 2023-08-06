@@ -1,0 +1,2 @@
+select id, first_name, last_name ,email as uemail from users where id between 0 and 10 order by first_name asc, id desc ;
+-- ordena os usuarios pela ordem alfabética do primeiro nome e pela ordem inversa do id casa haja repetição do nome

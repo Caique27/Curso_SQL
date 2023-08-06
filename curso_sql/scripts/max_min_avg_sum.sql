@@ -1,0 +1,1 @@
+SELECT max(salary), min(salary), avg(salary),sum(salary) from users
